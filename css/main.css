@@ -1,0 +1,44 @@
+body,html{
+    height: 100%;
+    margin:0 auto;
+}
+.link{
+    color: burlywood;
+    padding: 10px 10px;
+}
+.link:hover{
+    background: whitesmoke;
+}
+.section1{
+    background: url(../img/632787.jpg);
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+.judul{
+    font-family: LEMON/MILK;
+    font-size: 60px;
+    color: palevioletred;
+    margin: auto;
+}
+.sub-judul{
+    font-family: Mahoni Free Personal Use;
+    font-size: 30px;
+    color: thistle;
+    margin: auto;
+}
+.section2{
+    background: antiquewhite;
+    padding: 20px 0px;
+    margin: auto;
+}
+.section3{
+    background: mistyrose;
+    padding: 20px 0px;
+}
+.col-warna{
+    background: plum;
+}
+.col-warna2{
+    background: slateblue;
+}
